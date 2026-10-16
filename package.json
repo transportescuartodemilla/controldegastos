@@ -1,0 +1,14 @@
+{
+  "name": "finanzas-app",
+  "version": "1.0.0",
+  "description": "Panel administrativo financiero para control de ingresos, gastos, proyectos y empleados",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["finanzas", "panel-administrativo", "ingresos", "gastos", "proyectos", "reportes"],
+  "author": "",
+  "license": "ISC"
+}
